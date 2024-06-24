@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"OrganizerAp","l":"com.organizerap"},{"m":"OrganizerAp","l":"com.organizerapp.controller"},{"m":"OrganizerAp","l":"com.organizerapp.model"},{"m":"OrganizerAp","l":"com.organizerapp.util"},{"m":"OrganizerAp","l":"com.organizerapp.view"}];updateSearchResults();

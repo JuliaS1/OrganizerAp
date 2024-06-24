@@ -1,0 +1,6 @@
+module:OrganizerAp
+com.organizerap
+com.organizerapp.controller
+com.organizerapp.model
+com.organizerapp.util
+com.organizerapp.view
